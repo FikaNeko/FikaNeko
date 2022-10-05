@@ -1,11 +1,11 @@
-### Hi there 👋
-#### I'm Fika.🐱
-#### A high school student.📕
-#### A amateur blogger.🖊
-#### Photography is my favourite hobby.📷
-#### Dream is to be a Android/iOS developer.⌨
-## Anyway,nice to meet u!!!😀
-### Let's create the world together in code.💕
+## Hi there 👋
+### I'm Fika.🐱
+### A high school student.📕
+### A amateur blogger.🖊
+### Photography is my favourite hobby.📷
+### Dream is to be a Android/iOS developer.⌨
+# Anyway,nice to meet u!!!😀
+## Let's create the world together in code.💕
 
 <!--
 **FikaNeko/FikaNeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
