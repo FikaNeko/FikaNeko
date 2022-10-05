@@ -1,4 +1,5 @@
 ### Hi there 👋
+# I'm Fika,a high school student.
 
 <!--
 **FikaNeko/FikaNeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
