@@ -7,6 +7,8 @@
 # Anyway,nice to meet u!!!😀
 ## Let's create the world together in code.💕
 
+![Fika's github stats](https://github-readme-stats.vercel.app/api?username=FikaNeko&theme=gruvbox)
+
 <!--
 **FikaNeko/FikaNeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
