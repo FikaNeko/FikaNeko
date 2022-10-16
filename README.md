@@ -1,4 +1,5 @@
 ## Hi there 👋
+![img](https://img1.imgtp.com/2022/10/16/IPDBRkN6.jpg)
 ### I'm Fika.🐱
 ### A high school student.📕
 ### A amateur blogger.🖊
